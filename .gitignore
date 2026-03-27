@@ -1,0 +1,39 @@
+# Compiled class files
+*.class
+
+# Logs
+*.log
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# NetBeans
+nbproject/
+build/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code
+.vscode/
+
+# JARs
+*.jar
+
+# Temporary / backup
+*~
+*.swp
+
+# Optional: ignore local copies of the JDK config
+hs_err_pid*
